@@ -1,2 +1,1 @@
-Biostatistics Ph.D. student developing machine learning and causal inference methods for mulitmodeal biomedical data. Building interpretable foundation models for single-cell multi-omics and 3D genome organization. Prior clinical ML work includes an developing risk model for pediatric deterioration in childrens' hospitals.
-
+Biostatistics Ph.D. student in the [Singh Lab](https://singhlab.net/) at Duke University developing machine learning and causal inference methods for multimodal biomedical data. Building interpretable foundation models for single-cell multi-omics and 3D genome organization. Prior clinical ML work includes developing a risk model for pediatric deterioration in children's hospitals.
